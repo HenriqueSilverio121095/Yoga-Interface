@@ -1,4 +1,4 @@
-# Yoga-Interface
+# Yoga Interface
 
 <img src="" alt="Yoga">
 
@@ -10,7 +10,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] HTML
 - [x] CSS
-- [ ]
+- [ ] Atualização da interface
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
