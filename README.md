@@ -1,28 +1,20 @@
 # Yoga Interface
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/HenriqueSilverio121095/Yoga-Interface/blob/main/LICENSE)
 
-<img src="" alt="Yoga">
+# About the Project
+This project sought to develop an interface for a website oriented to yoga practice.
 
-> Resultado do projeto.
+# Layout Website
+<img src="https://github.com/HenriqueSilverio121095/Yoga-Interface/blob/main/Yoga-Interface.png" alt="Yoga" height="500" width="275">
 
-### Ajustes e melhorias
+> Project result
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
+# Technologies Used
+## FrontEnd
 - [x] HTML
 - [x] CSS
-- [ ] Atualização da interface
-## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+# Author
+Henrique Silverio Siqueira de Oliveira
 
-<table>
-  <tr>
-    <td allign="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Henrique Silverio</b>
-        </sub>
-      </a>
-    </td>
-</table>
+https://www.linkedin.com/in/henrique-oliveira-1210/
